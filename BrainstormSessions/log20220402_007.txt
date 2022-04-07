@@ -1,0 +1,76 @@
+2022-04-02 03:06:37.765 +05:00 [INF] Executed endpoint 'BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions)'
+2022-04-02 03:06:37.799 +05:00 [INF] Request finished in 64255.6011ms 200 text/html; charset=utf-8
+2022-04-02 03:06:37.846 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:65526/_framework/aspnetcore-browser-refresh.js  
+2022-04-02 03:06:37.850 +05:00 [INF] Request finished in 3.1804ms 200 application/javascript; charset=utf-8
+2022-04-02 03:06:37.874 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:65526/_framework/aspnetcore-browser-refresh.js  
+2022-04-02 03:06:37.885 +05:00 [INF] Request finished in 10.8409ms 200 application/javascript; charset=utf-8
+2022-04-02 03:16:55.518 +05:00 [INF] User profile is available. Using 'C:\Users\Saidnazar_Saidnazaro\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-04-02 03:16:55.972 +05:00 [INF] Entity Framework Core 3.0.1 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=InMemoryDb 
+2022-04-02 03:16:56.197 +05:00 [INF] Saved 2 entities to in-memory store.
+2022-04-02 03:16:56.285 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-02 03:16:56.285 +05:00 [INF] Hosting environment: Development
+2022-04-02 03:16:56.285 +05:00 [INF] Content root path: C:\Users\Saidnazar_Saidnazaro\Downloads\Logging\Logging\BrainstormSessions
+2022-04-02 03:16:56.319 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:65526/  
+2022-04-02 03:16:56.361 +05:00 [INF] Executing endpoint 'BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions)'
+2022-04-02 03:16:56.375 +05:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller BrainstormSessions.Controllers.HomeController (BrainstormSessions).
+2022-04-02 03:16:56.381 +05:00 [INF] Executing action method BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions) - Validation state: "Valid"
+2022-04-02 03:16:56.393 +05:00 [INF] Entity Framework Core 3.0.1 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=InMemoryDb 
+2022-04-02 03:16:56.406 +05:00 [INF] Received  all sessions.
+2022-04-02 03:16:56.410 +05:00 [INF] Executed action method BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions), returned result Microsoft.AspNetCore.Mvc.ViewResult in 25.6708ms.
+2022-04-02 03:16:56.421 +05:00 [INF] Executing ViewResult, running view Index.
+2022-04-02 03:16:56.610 +05:00 [INF] Executed ViewResult - view Index executed in 191.8248ms.
+2022-04-02 03:16:56.612 +05:00 [INF] Executed action BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions) in 236.2048ms
+2022-04-02 03:16:56.612 +05:00 [INF] Executed endpoint 'BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions)'
+2022-04-02 03:16:56.632 +05:00 [INF] Request finished in 314.8668ms 200 text/html; charset=utf-8
+2022-04-02 03:16:56.653 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:65526/_framework/aspnetcore-browser-refresh.js  
+2022-04-02 03:16:56.656 +05:00 [INF] Request finished in 3.3332ms 200 application/javascript; charset=utf-8
+2022-04-02 03:17:11.797 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:65526/ application/x-www-form-urlencoded 31
+2022-04-02 03:17:11.801 +05:00 [INF] Executing endpoint 'BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions)'
+2022-04-02 03:17:11.822 +05:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(NewSessionModel) on controller BrainstormSessions.Controllers.HomeController (BrainstormSessions).
+2022-04-02 03:17:11.871 +05:00 [INF] Executing action method BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions) - Validation state: "Valid"
+2022-04-02 03:17:11.882 +05:00 [INF] Entity Framework Core 3.0.1 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=InMemoryDb 
+2022-04-02 03:17:11.885 +05:00 [INF] Saved 1 entities to in-memory store.
+2022-04-02 03:17:11.886 +05:00 [INF] Executed action method BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions), returned result Microsoft.AspNetCore.Mvc.RedirectToActionResult in 14.9541ms.
+2022-04-02 03:17:11.888 +05:00 [INF] Executing RedirectResult, redirecting to /.
+2022-04-02 03:17:11.889 +05:00 [INF] Executed action BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions) in 65.9157ms
+2022-04-02 03:17:11.889 +05:00 [INF] Executed endpoint 'BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions)'
+2022-04-02 03:17:11.891 +05:00 [INF] Request finished in 94.5332ms 302 
+2022-04-02 03:17:11.894 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:65526/  
+2022-04-02 03:17:11.896 +05:00 [INF] Executing endpoint 'BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions)'
+2022-04-02 03:17:11.896 +05:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller BrainstormSessions.Controllers.HomeController (BrainstormSessions).
+2022-04-02 03:17:11.897 +05:00 [INF] Executing action method BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions) - Validation state: "Valid"
+2022-04-02 03:17:11.898 +05:00 [INF] Entity Framework Core 3.0.1 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=InMemoryDb 
+2022-04-02 03:17:11.900 +05:00 [INF] Received  all sessions.
+2022-04-02 03:17:11.900 +05:00 [INF] Executed action method BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.3842ms.
+2022-04-02 03:17:11.900 +05:00 [INF] Executing ViewResult, running view Index.
+2022-04-02 03:17:11.924 +05:00 [INF] Executed ViewResult - view Index executed in 24.0917ms.
+2022-04-02 03:17:11.925 +05:00 [INF] Executed action BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions) in 28.2612ms
+2022-04-02 03:17:11.925 +05:00 [INF] Executed endpoint 'BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions)'
+2022-04-02 03:17:11.936 +05:00 [INF] Request finished in 41.8375ms 200 text/html; charset=utf-8
+2022-04-02 03:17:11.954 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:65526/_framework/aspnetcore-browser-refresh.js  
+2022-04-02 03:17:11.956 +05:00 [INF] Request finished in 1.2041ms 200 application/javascript; charset=utf-8
+2022-04-02 03:17:11.962 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:65526/_framework/aspnetcore-browser-refresh.js  
+2022-04-02 03:17:11.963 +05:00 [INF] Request finished in 0.7692ms 200 application/javascript; charset=utf-8
+2022-04-02 03:44:06.506 +05:00 [INF] User profile is available. Using 'C:\Users\Saidnazar_Saidnazaro\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-04-02 03:44:06.938 +05:00 [INF] Entity Framework Core 3.0.1 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=InMemoryDb 
+2022-04-02 03:44:07.131 +05:00 [INF] Saved 2 entities to in-memory store.
+2022-04-02 03:44:07.215 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-02 03:44:07.215 +05:00 [INF] Hosting environment: Development
+2022-04-02 03:44:07.215 +05:00 [INF] Content root path: C:\Users\Saidnazar_Saidnazaro\Downloads\Logging\Logging\BrainstormSessions
+2022-04-02 03:44:07.259 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:65526/  
+2022-04-02 03:44:07.301 +05:00 [INF] Executing endpoint 'BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions)'
+2022-04-02 03:44:07.321 +05:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller BrainstormSessions.Controllers.HomeController (BrainstormSessions).
+2022-04-02 03:44:07.327 +05:00 [INF] Executing action method BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions) - Validation state: "Valid"
+2022-04-02 03:44:07.347 +05:00 [INF] Entity Framework Core 3.0.1 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory' with options: StoreName=InMemoryDb 
+2022-04-02 03:44:07.362 +05:00 [INF] Received  all sessions.
+2022-04-02 03:44:07.367 +05:00 [INF] Executed action method BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions), returned result Microsoft.AspNetCore.Mvc.ViewResult in 34.7987ms.
+2022-04-02 03:44:07.382 +05:00 [INF] Executing ViewResult, running view Index.
+2022-04-02 03:44:07.571 +05:00 [INF] Executed ViewResult - view Index executed in 194.1728ms.
+2022-04-02 03:44:07.572 +05:00 [INF] Executed action BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions) in 250.4456ms
+2022-04-02 03:44:07.573 +05:00 [INF] Executed endpoint 'BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions)'
+2022-04-02 03:44:07.594 +05:00 [INF] Request finished in 337.4301ms 200 text/html; charset=utf-8
+2022-04-02 03:44:07.615 +05:00 [INF] Request starting HTTP/1.1 GET http://localhost:65526/_framework/aspnetcore-browser-refresh.js  
+2022-04-02 03:44:07.620 +05:00 [INF] Request finished in 4.6025ms 200 application/javascript; charset=utf-8
+2022-04-02 03:44:11.625 +05:00 [INF] Request starting HTTP/1.1 POST http://localhost:65526/ application/x-www-form-urlencoded 32
+2022-04-02 03:44:11.627 +05:00 [INF] Executing endpoint 'BrainstormSessions.Controllers.HomeController.Index (BrainstormSessions)'
+2022-04-02 03:44:11.637 +05:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(NewSessionModel) on controller BrainstormSessions.Controllers.HomeController (BrainstormSessions).
